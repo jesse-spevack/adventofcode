@@ -30,4 +30,3 @@ def total_calories_of_top_three_elves(path)
 end
 
 puts total_calories_of_top_three_elves(path)
-# puts 45_000
